@@ -1,0 +1,4 @@
+main: core.freebuild.Freebuild
+name: FreebuildCore
+version: 1.0-SNAPSHOT
+author: Guls,Nils
