@@ -11,6 +11,6 @@ public class PlayerJoinListener implements Listener {
 
     @EventHandler
     public void onJoin(PlayerJoinEvent event, Player player) {
-        event.setJoinMessage("test");
+        event.setJoinMessage("nils hat ein kleinen pimmel");
     }
 }
