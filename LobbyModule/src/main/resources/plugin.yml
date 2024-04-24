@@ -1,4 +1,4 @@
 main: freebuild.lobby.LobbyModule
 name: LobbyModule
 version: 1.0-SNAPSHOT
-author: Guilian
+author: Guilian, Nils

@@ -10,7 +10,7 @@ import org.bukkit.event.player.PlayerJoinEvent;
 public class PlayerJoinListener implements Listener {
 
     @EventHandler
-    public void onJoin(PlayerJoinEvent event, Player player) {
+    public void onJoin(PlayerJoinEvent event) {
         event.setJoinMessage("nils hat ein kleinen pimmel");
     }
 }
